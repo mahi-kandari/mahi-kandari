@@ -16,5 +16,3 @@ Hi, I'm Mahi 💗<br><br>💻 Aspiring Software Engineer<br>📱 Passionate abou
 
 ---
 [![](https://komarev.com/ghpvc/?username=mahi-kandari&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
