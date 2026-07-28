@@ -14,5 +14,3 @@ Hi, I'm Mahi 💗<br><br>💻 Aspiring Software Engineer<br>📱 Passionate abou
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-[![](https://komarev.com/ghpvc/?username=mahi-kandari&icon=0&color=0)](https://visitcount.itsvg.in)
