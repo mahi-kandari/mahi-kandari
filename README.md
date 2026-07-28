@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Mahi 💗<br><br>💻 Aspiring Software Engineer<br>📱 Passionate about Full-Stack & Mobile Development <br>🎨 Blending code with thoughtful design  <br>🧩 DSA • Open Source • UI/UX <br>✨ Building things that people enjoy using.
 
 
